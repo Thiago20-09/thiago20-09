@@ -5,3 +5,4 @@ Meu nome é Thiago Rosa
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
+![descrição do GIF](https://media.tenor.com/Cih6xCgOHxMAAAAM/dancing-cat-dance.gif)
